@@ -1,0 +1,37 @@
+# -----------------------------------------------
+# Dataset files — see data/README.md for download
+# and preprocessing instructions
+# -----------------------------------------------
+ZipDigits.train
+ZipDigits.test
+ZipDigits.info
+crx.data
+crx.names
+play_tennis.csv
+synthetic_dataset.csv
+2vs8.csv
+separable2vs8.csv
+
+# Entire data subdirectories (duplicated copies)
+digits/
+credit approval/
+tennis_decision_tree/
+Perceptron/Digits/
+Linear Models/Digits/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code local settings
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
