@@ -28,6 +28,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Instructor-only files
+IEEE_FIE_2025_WIP_Paper.pdf
+classactivity-specs.txt
+
 # Claude Code local settings
 .claude/
 

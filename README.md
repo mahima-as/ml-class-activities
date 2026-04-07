@@ -48,6 +48,15 @@ jupyter notebook
 - `numpy`, `pandas`, `matplotlib`, `scikit-learn`
 - `cvxopt` (required for SVM notebook)
 
+## Citation
+
+The lesson plans and course design in this repository are based on the following work:
+
+> M. Agumbe Suresh, "WIP: Incorporating Active Learning and Group Work into
+> Specifications Grading for Graduate Level Data Science Courses," *2025 IEEE
+> Frontiers in Education Conference (FIE)*, 2025.
+> DOI: [10.1109/FIE63693.2025.11328544](https://doi.org/10.1109/FIE63693.2025.11328544)
+
 ## Notes
 
 - Notebooks contain cleared outputs — run cells top-to-bottom to reproduce results
